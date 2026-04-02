@@ -1,3 +1,4 @@
+package com.example.canteen;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
